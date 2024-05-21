@@ -1,11 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Microsoft Landing Page UI - README</title>
-</head>
-<body>
 
 <header>
     <h1>Microsoft Landing Page UI</h1>
@@ -14,6 +6,11 @@ This project is a responsive landing page UI inspired by Microsoft's website des
     <p>Responsive landing page UI for Microsoft website</p>
 </header>
 
+## Screenshot
+
+![Microsoft Landing Page Screenshot](./microsoft.jpg)
+
+## Description
 <section>
     <h2>Features</h2>
     <ul>
